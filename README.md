@@ -23,7 +23,7 @@ CaptureGem can be [found here](https://www.capturegem.com).
 The app automatically generates thumbnail grids for all your recordings so you can quickly preview the content. In the Review Tab, you can see these. Additionally, you can
 filter your saved recordings by model and watch past recordings.
 
-<img width="500" src="https://github.com/vrcamrecordings/Flirt4Free-recorder/assets/155075920/566aa9f0-45be-458b-89b1-450dad8d4e7a" alt="Flirt4Free Recording Review Feature">
+<img width="500" src="https://github.com/vrcamrecordings/Flirt4Free-recorder/assets/155075920/df477856-f87b-4aba-ac73-92ae62451f1f" alt="Flirt4Free Recording Review Feature">
 
 ## Further Details
 
